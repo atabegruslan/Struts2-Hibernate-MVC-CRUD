@@ -14,7 +14,7 @@ Then right click the project, Properties, Add external archives, add in the down
 
 ### Results
 
-![Results & Project Structure](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/04.PNG)
+![Results](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/04.PNG)
 
 ### Code
 
