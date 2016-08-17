@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+   "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+   "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+  <struts>
+     
+    <constant name="struts.action.extension" value="" />
+   
+  	<package name="default" namespace="/tripadvisor" extends="struts-default">
+  		<action name="read" method="read" class="com.ruslan.action.RatingsAction">
+  			<result name="success">/ratings.jsp</result>
+  		</action>
+  		<action name="readOne" method="readOne" class="com.ruslan.action.RatingsAction">
+  			<result name="success">/ratings.jsp</result>
+  		</action>
+  		<action name="create" method="create" class="com.ruslan.action.RatingsAction">
+  			<result name="success" type="redirect">read</result>
+  		</action>
+  		  <action name="update" method="update" class="com.ruslan.action.RatingsAction">
+  			<result name="success" type="redirect">read</result>
+  		</action>
+  		  <action name="delete" method="delete" class="com.ruslan.action.RatingsAction">
+  			<result name="success" type="redirect">read</result>
+  		</action>  		
+  	</package>	
+  </struts>
