@@ -4,7 +4,7 @@
 
 ![Database](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/01.PNG)
 
-![XAMPP `my.ini` ](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/02.PNG)
+![](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/02.PNG)
 
 To include the needed .jars in Eclipse: Right click the project, Properties, Add an user library, add in the jar files (downloaded from internet for Struts2 and Hibernate). 
 
