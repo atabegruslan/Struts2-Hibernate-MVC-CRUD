@@ -2,19 +2,19 @@
 
 ### Setup
 
-![Database](01.PNG)
+![Database](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/01.PNG)
 
-![XAMPP `my.ini` ](02.PNG)
+![XAMPP `my.ini` ](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/02.PNG)
 
 To include the needed .jars in Eclipse: Right click the project, Properties, Add an user library, add in the jar files (downloaded from internet for Struts2 and Hibernate). 
 
 Then right click the project, Properties, Add external archives, add in the downloaded JDBC MySQL driver jar (also downloaded from internet).
 
-![JARs](03.PNG)
+![JARs](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/03.PNG)
 
 ### Results
 
-![Results & Project Structure](04.PNG)
+![Results & Project Structure](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/04.PNG)
 
 ### Code
 
