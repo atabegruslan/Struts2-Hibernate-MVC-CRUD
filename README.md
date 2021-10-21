@@ -1,5 +1,9 @@
 # Struts2 - Hibernate - MySQL - MVC - CRUD
 
+### Preliminaries
+
+Good to know JSP before this. https://github.com/Ruslan-Aliyev/Java_JSP
+
 ### Setup
 
 ![Database](https://raw.githubusercontent.com/atabegruslan/Struts2-Hibernate-MVC/master/Illustrations/01.PNG)
